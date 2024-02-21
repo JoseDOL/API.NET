@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJDEQm0JuWN9fkrMhFjTsN5gSMtRzpStrXK57rNtBwJiNWdIeKHrnlJ5r4F6v6FEsfAfWG7cswYlZIsmzZYrzg==",
+  "dgSpecHash": "EbKHWze9v3DyzYkVEckwv5UwFQ9JcYb4tELY0Msw1Q+EAeyG7MhRrRqojceVYrfstny/2HkRjEvzxmRp1y1xzg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\API.NET\\APIRest\\APIRest.csproj",
+  "projectFilePath": "D:\\GitHub\\API.NET\\APIrest\\APIRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSE-1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\JOSE-1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

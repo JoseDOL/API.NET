@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\API.NET\\APIRest\\APIRest.csproj": {}
+    "D:\\GitHub\\API.NET\\APIrest\\APIRest.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\API.NET\\APIRest\\APIRest.csproj": {
+    "D:\\GitHub\\API.NET\\APIrest\\APIRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\API.NET\\APIRest\\APIRest.csproj",
+        "projectUniqueName": "D:\\GitHub\\API.NET\\APIrest\\APIRest.csproj",
         "projectName": "APIRest",
-        "projectPath": "D:\\GitHub\\API.NET\\APIRest\\APIRest.csproj",
+        "projectPath": "D:\\GitHub\\API.NET\\APIrest\\APIRest.csproj",
         "packagesPath": "C:\\Users\\JOSE-1\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\API.NET\\APIRest\\obj\\",
+        "outputPath": "D:\\GitHub\\API.NET\\APIrest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
