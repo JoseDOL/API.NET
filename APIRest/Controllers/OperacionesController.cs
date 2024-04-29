@@ -1,5 +1,6 @@
 ﻿using APIRest.Models;
 using APIRest.Servicios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace APIRest.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize] 
     [ApiController]
     public class OperacionesController(IServicioConexion servicioConexion) : ControllerBase
     {
@@ -31,7 +33,7 @@ namespace APIRest.Controllers
             {
                 return Ok(new { message = "Persona insertada correctamente" });
             }
-            return StatusCode(500, $"Error al insertar persona: {persona.Nombre}");
+            return StatusCode(500, new { message = $"Error al insertar persona: {persona.Nombre}" } );
         }
 
         

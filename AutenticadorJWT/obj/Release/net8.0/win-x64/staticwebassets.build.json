@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iHMueMricj6vfocV3bjm4iuOygBQYfSYgiFTzXyLLkU=",
+  "Source": "AutenticadorJWT",
+  "BasePath": "_content/AutenticadorJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
